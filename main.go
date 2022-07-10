@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"marketplace-goapi/pkg/auth"
-	"marketplace-goapi/pkg/base"
+	"marketplace-goapi/modules/auth"
+	"marketplace-goapi/modules/base"
 	"marketplace-goapi/provider"
 
 	"github.com/gofiber/fiber/v2"
